@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+lumaiasl's blog: Welcome to my brand new blog!
 ---
